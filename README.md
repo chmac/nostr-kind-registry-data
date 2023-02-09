@@ -1,0 +1,1 @@
+# nostr-kind-registry-data

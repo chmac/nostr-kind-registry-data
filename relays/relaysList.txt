@@ -296,3 +296,4 @@ wss://atlas.nostr.land
 wss://nostr.island.network
 wss://cloudnull.land
 wss://nostr.a-ef.org
+wss://relay.nostrati.com

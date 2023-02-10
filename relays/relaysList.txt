@@ -74,3 +74,4 @@ wss://nostr-relay.digitalmob.ro
 wss://nostr.21m.fr
 wss://blg.nostr.sx
 wss://mule.platanito.org
+wss://no.str.watch

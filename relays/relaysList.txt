@@ -318,3 +318,4 @@ wss://relay.nostriches.org
 wss://nostr.h3y6e.com
 wss://nostr.decentony.com
 wss://nostr.nikolaj.online
+wss://nostr.frostr.xyz

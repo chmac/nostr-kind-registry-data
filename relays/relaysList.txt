@@ -401,3 +401,4 @@ wss://relay.stonez.me
 wss://nostr-01.dorafactory.org
 wss://relay01.apus.network
 wss://relay.wtr.app
+wss://nostr.1729.cloud

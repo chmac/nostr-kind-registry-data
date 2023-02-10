@@ -61,3 +61,4 @@ wss://nostr.hackerman.pro
 wss://nostr.blockchaincaffe.it
 wss://relay.taxi
 wss://no-str.org
+wss://nostr.zerofeerouting.com

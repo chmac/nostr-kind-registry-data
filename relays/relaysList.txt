@@ -98,3 +98,4 @@ wss://nostrical.com
 wss://nostr.lnprivate.network
 wss://nostr-relay.freedomnode.com
 wss://nostr.jimc.me
+wss://nostr.gromeul.eu

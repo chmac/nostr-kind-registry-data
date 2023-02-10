@@ -409,3 +409,4 @@ wss://nostr.geekgalaxy.com
 wss://nostr.risa.zone
 wss://nostr.cave.social
 wss://lightningrelay.com
+wss://nostr1675989049877.app.runonflux.io

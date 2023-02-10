@@ -88,3 +88,4 @@ wss://tmp-relay.cesc.trade
 wss://relay.nostr.au
 wss://relay.nostr.com.au
 wss://nostream-production-b80e.up.railway.app
+wss://nostr.argdx.net

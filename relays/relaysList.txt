@@ -64,3 +64,4 @@ wss://no-str.org
 wss://nostr.zerofeerouting.com
 wss://public.nostr.swissrouting.com
 wss://nostr.kollider.xyz
+wss://nostr.massmux.com

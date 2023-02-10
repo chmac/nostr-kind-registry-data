@@ -235,3 +235,4 @@ wss://relay.valera.co
 wss://nostr.sg
 wss://nostr.sept.ml
 wss://nostr.liberty.fans
+wss://nostr.k3tan.com

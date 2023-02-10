@@ -277,3 +277,4 @@ wss://nostr.bitcoinpuertori.co
 wss://eden.nostr.land/invoices
 wss://nostr.hosted.eu.org
 wss://nostr21.com
+wss://arc1.arcadelabs.co

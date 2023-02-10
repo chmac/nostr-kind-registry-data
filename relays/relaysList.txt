@@ -413,3 +413,4 @@ wss://nostr1675989049877.app.runonflux.io
 wss://no-str.wnhefei.cn:28443
 wss://nostr1675998373522.app.runonflux.io
 wss://relay.nostr.or.jp
+wss://nostr.astrox.app

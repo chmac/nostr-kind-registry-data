@@ -135,3 +135,4 @@ wss://nostr.zoomout.chat
 wss://nostr.jiashanlu.synology.me
 wss://nostr.coollamer.com
 wss://nostr.digitalreformation.info
+wss://nostr.thesimplekid.com

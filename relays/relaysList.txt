@@ -185,3 +185,4 @@ wss://relay.nostrzoo.com
 wss://nostr.f44.dev
 wss://nostr.up.railway.app
 wss://nostr.1f52b.xyz
+wss://nostream-production-5895.up.railway.app

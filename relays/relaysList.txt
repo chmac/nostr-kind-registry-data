@@ -10,3 +10,4 @@ wss://nostr.lu.ke
 wss://nostr.orba.ca
 wss://nostr-01.bolt.observer
 wss://rsslay.nostr.moe
+wss://private-nostr.v0l.io

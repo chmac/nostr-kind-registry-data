@@ -91,3 +91,4 @@ wss://nostream-production-b80e.up.railway.app
 wss://nostr.argdx.net
 wss://knostr.neutrine.com
 wss://nostr.actn.io
+wss://nostr-dev.wellorder.net

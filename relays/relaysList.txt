@@ -383,3 +383,4 @@ wss://nostr.freefrom.fi
 wss://nostr.tangzixiang.com
 wss://nostr.bitocial.xyz
 wss://nostr.milou.lol/invoices
+wss://nostr.zclub.app

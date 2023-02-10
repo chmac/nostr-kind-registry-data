@@ -384,3 +384,4 @@ wss://nostr.tangzixiang.com
 wss://nostr.bitocial.xyz
 wss://nostr.milou.lol/invoices
 wss://nostr.zclub.app
+wss://nostr.l00p.org

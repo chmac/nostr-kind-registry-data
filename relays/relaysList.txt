@@ -345,3 +345,4 @@ wss://slick.mjex.me
 wss://nostr.21l.st
 wss://relay.nostr.gt
 wss://nostr-pub.liujiale.me
+wss://atlas.nostr.land/invoices

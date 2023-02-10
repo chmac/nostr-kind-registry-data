@@ -298,3 +298,4 @@ wss://cloudnull.land
 wss://nostr.a-ef.org
 wss://relay.nostrati.com
 wss://relay-dev.cowdle.gg
+wss://nostr.ginuerzh.xyz

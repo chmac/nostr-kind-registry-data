@@ -358,3 +358,4 @@ wss://nostr.fennel.org:7000
 wss://nostr-relay.aapi.me
 wss://alo.ottonove891.cf
 wss://nostr.weking.tk
+wss://nostr-relay.nokotaro.com

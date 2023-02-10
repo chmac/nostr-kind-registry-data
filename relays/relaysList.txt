@@ -5,3 +5,4 @@ wss://rsslay.nostr.net
 wss://nostr-pub.semisol.dev
 wss://relay.boring.surf
 wss://nostr-relay.lnmarkets.com
+wss://relay.nostrgraph.net

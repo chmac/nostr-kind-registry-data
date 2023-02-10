@@ -169,3 +169,4 @@ wss://nostr-relay.gkbrk.com
 wss://bitcoiner.social
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.coincreek.com
+wss://nostr-pub1.southflorida.ninja

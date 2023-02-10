@@ -289,3 +289,4 @@ wss://rsslay.data.haus
 wss://spore.ws
 wss://relay.727whisky.com
 wss://private.red.gb.net
+wss://relay.alien.blue

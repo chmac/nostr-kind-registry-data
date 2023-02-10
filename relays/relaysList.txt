@@ -300,3 +300,4 @@ wss://relay.nostrati.com
 wss://relay-dev.cowdle.gg
 wss://nostr.ginuerzh.xyz
 wss://nostr.nakamotosatoshi.cf
+wss://relay.1bps.io

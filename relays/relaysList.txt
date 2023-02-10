@@ -166,3 +166,4 @@ wss://nostr.whoop.ph
 wss://relay.nvote.co
 wss://relay.dwadziesciajeden.pl
 wss://nostr-relay.gkbrk.com
+wss://bitcoiner.social

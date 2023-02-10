@@ -403,3 +403,4 @@ wss://relay01.apus.network
 wss://relay.wtr.app
 wss://nostr.1729.cloud
 wss://nostr-mv.ashiroid.com
+wss://relay.reeve.cn

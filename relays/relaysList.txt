@@ -145,3 +145,4 @@ wss://relay.nostr.snblago.com
 wss://nostr.rdfriedl.com
 wss://relay.nor.st
 wss://nostr.shmueli.org
+wss://btc.klendazu.com

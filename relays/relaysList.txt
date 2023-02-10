@@ -151,3 +151,4 @@ wss://nostr.sabross.xyz
 wss://relay.grorp.com
 wss://nostr2.actn.io
 wss://relay.plebstr.com
+wss://nostr.uselessshit.co

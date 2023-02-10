@@ -194,3 +194,4 @@ wss://nostr.bitcoin.sex
 wss://nostr.pjv.me
 wss://nostr.itssilvestre.com
 wss://nostr.badran.xyz
+wss://nostr-relay.texashedge.xyz

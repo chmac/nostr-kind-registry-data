@@ -354,3 +354,4 @@ wss://nostream.lucas.snowinning.com
 wss://0x00.0x000.org
 wss://nostr.bybieyang.com
 wss://nostream.frank.snowinning.com
+wss://nostr.fennel.org:7000

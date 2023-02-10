@@ -28,3 +28,4 @@ wss://nostr.slothy.win
 wss://nostr-relay.untethr.me
 wss://global.relay.red
 wss://relay.nostr.info
+wss://sg.qemura.xyz

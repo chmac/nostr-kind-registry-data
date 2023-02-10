@@ -131,3 +131,4 @@ wss://relay.nostr.moe
 wss://nostr.corebreach.com
 wss://nostr-1.nbo.angani.co
 wss://nostr.mikedilger.com
+wss://nostr.zoomout.chat

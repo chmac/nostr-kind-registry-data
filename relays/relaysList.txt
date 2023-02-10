@@ -159,3 +159,4 @@ wss://relay.sdbtc.org
 wss://relay.wellorder.net
 wss://nostr.handyjunky.com
 wss://relay-pub.deschooling.us
+wss://nostr.easydns.ca

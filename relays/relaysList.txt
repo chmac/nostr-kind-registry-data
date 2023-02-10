@@ -269,3 +269,4 @@ wss://nostr.blockpower.capital
 wss://eospark.com
 wss://nostr.sidnlabs.nl
 wss://nostr.688.org
+wss:///nostr.lnprivate.network

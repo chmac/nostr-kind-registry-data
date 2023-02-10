@@ -292,3 +292,4 @@ wss://private.red.gb.net
 wss://relay.alien.blue
 wss://nostr.ch3n2k.com
 wss://relay.mrjohnsson.net
+wss://atlas.nostr.land

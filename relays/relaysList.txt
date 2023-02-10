@@ -181,3 +181,4 @@ wss://relay.nostr.vision
 wss://klockenga.social
 wss://nostrich.friendship.tw
 wss://nostr.cvilleblockchain.org
+wss://relay.nostrzoo.com

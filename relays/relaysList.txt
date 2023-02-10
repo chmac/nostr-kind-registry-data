@@ -116,3 +116,4 @@ wss://nostr3.actn.io
 wss://nostr.mado.io
 wss://nostr.bostonbtc.com
 wss://lv01.tater.ninja
+wss://nostr.bch.ninja

@@ -47,3 +47,4 @@ wss://nostr-relay.derekross.me
 wss://relay.oldcity-bitcoiners.info
 wss://nostr.drss.io
 wss://nostr.semisol.dev
+wss://nostr.developer.li

@@ -167,3 +167,4 @@ wss://relay.nvote.co
 wss://relay.dwadziesciajeden.pl
 wss://nostr-relay.gkbrk.com
 wss://bitcoiner.social
+wss://nostr-ts-relay.ip.inf.br

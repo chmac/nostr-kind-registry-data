@@ -398,3 +398,4 @@ wss://relay.orange-crush.com
 wss://nostr.jacany.com
 wss://relay.sotalive.net
 wss://relay.stonez.me
+wss://nostr-01.dorafactory.org

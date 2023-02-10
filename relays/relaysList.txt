@@ -175,3 +175,4 @@ wss://relay.orangepill.dev
 wss://relay.nostr.jhot.me
 wss://zur.nostr.sx
 wss://nostr.mouton.dev
+wss://e.nos.lol

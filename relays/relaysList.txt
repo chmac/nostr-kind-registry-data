@@ -399,3 +399,4 @@ wss://nostr.jacany.com
 wss://relay.sotalive.net
 wss://relay.stonez.me
 wss://nostr-01.dorafactory.org
+wss://relay01.apus.network

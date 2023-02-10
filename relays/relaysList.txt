@@ -57,3 +57,4 @@ wss://nostr.lnorb.com
 wss://relay.sendstr.com
 wss://relay.cryptocculture.com
 wss://relay.nostr.scot
+wss://nostr.hackerman.pro

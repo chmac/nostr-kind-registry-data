@@ -178,3 +178,4 @@ wss://nostr.mouton.dev
 wss://e.nos.lol
 wss://nostr.app.runonflux.io
 wss://relay.nostr.vision
+wss://klockenga.social

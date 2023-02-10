@@ -192,3 +192,4 @@ wss:///no.str.cr
 wss://nostr.sebastix.dev
 wss://nostr.bitcoin.sex
 wss://nostr.pjv.me
+wss://nostr.itssilvestre.com

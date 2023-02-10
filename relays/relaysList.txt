@@ -338,3 +338,4 @@ wss://relay.humanumest.social
 wss://relay.nostr.amane.moe
 wss://nostr.bgpipes.com
 wss://nostr.satoshi.fun
+wss://nostr.21crypto.ch

@@ -368,3 +368,4 @@ wss://nostr.tools.global.id
 wss://paid.spore.ws
 wss://nostr.notmyhostna.me
 wss://nostr.vpn1.codingmerc.com
+wss://nostr.naut.social

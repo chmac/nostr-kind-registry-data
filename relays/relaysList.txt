@@ -81,3 +81,4 @@ wss://nostr1.tunnelsats.com
 wss://relay.nostr.nu
 wss://nostr.radixrat.com
 wss://nostr.w3ird.tech
+wss://nostr.shawnyeager.net

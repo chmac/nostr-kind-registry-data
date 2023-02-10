@@ -214,3 +214,4 @@ wss://nostream-production-9458.up.railway.app
 wss://nostr.com.de
 wss://nr.yay.so
 wss://n.wingu.se
+wss://eosla.com

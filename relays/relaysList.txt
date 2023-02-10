@@ -308,3 +308,4 @@ wss://relay.nostrview.com
 wss://nostr01.vida.dev
 wss://nostr.ownscale.org
 wss://relay.nostromo.social
+wss://1.noztr.com

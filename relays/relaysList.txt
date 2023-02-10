@@ -7,3 +7,4 @@ wss://relay.boring.surf
 wss://nostr-relay.lnmarkets.com
 wss://relay.nostrgraph.net
 wss://nostr.lu.ke
+wss://nostr.orba.ca

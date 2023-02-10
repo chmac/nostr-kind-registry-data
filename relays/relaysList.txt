@@ -322,3 +322,4 @@ wss://nostr.frostr.xyz
 wss://nostr-relay.pcdkd.fyi
 wss://fast.bhagos.org
 wss://relay.nostr.wirednet.jp
+wss://nostrsxz4lbwe-nostr.functions.fnc.fr-par.scw.cloud

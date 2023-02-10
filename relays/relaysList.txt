@@ -99,3 +99,4 @@ wss://nostr.lnprivate.network
 wss://nostr-relay.freedomnode.com
 wss://nostr.jimc.me
 wss://nostr.gromeul.eu
+wss://node01.nostress.cc

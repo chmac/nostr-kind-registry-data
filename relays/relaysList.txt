@@ -365,3 +365,4 @@ relay.snort.social
 wss://relay.beta.fogtype.com
 wss://nostr.thibautrey.fr
 wss://nostr.tools.global.id
+wss://paid.spore.ws

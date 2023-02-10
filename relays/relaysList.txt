@@ -241,3 +241,4 @@ wss://nostream.simon.snowinning.com
 wss://nostr.asdf.mx
 wss://nostr.13x.sh
 wss://nostr-dev.newstr.io
+wss://nostr.cro.social

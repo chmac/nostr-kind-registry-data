@@ -147,3 +147,4 @@ wss://relay.nor.st
 wss://nostr.shmueli.org
 wss://btc.klendazu.com
 wss://freespeech.casa
+wss://nostr.sabross.xyz

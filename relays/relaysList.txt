@@ -282,3 +282,4 @@ wss://nostr.nym.life
 wss://relay.koreus.social
 wss://www.weixin.com
 wss://nostr.randomdevelopment.biz
+wss://nostr.plebchain.org

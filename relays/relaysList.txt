@@ -319,3 +319,4 @@ wss://nostr.h3y6e.com
 wss://nostr.decentony.com
 wss://nostr.nikolaj.online
 wss://nostr.frostr.xyz
+wss://nostr-relay.pcdkd.fyi

@@ -164,3 +164,4 @@ wss://nostr.bitcoinbay.engineering
 wss://nostr.hugo.md
 wss://nostr.whoop.ph
 wss://relay.nvote.co
+wss://relay.dwadziesciajeden.pl

@@ -379,3 +379,4 @@ wss://nostr.buythisdip.com
 wss://arnostr.permadao.io
 wss://rsr.uyky.net:30443
 wss://nostr.web3infra.xyz
+wss://nostr.freefrom.fi

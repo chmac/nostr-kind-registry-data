@@ -25,3 +25,4 @@ wss://eden.nostr.land
 wss://nostr.mom
 wss://nostr.openchain.fr
 wss://nostr.slothy.win
+wss://nostr-relay.untethr.me

@@ -189,3 +189,4 @@ wss://nostream-production-5895.up.railway.app
 wss://nostream.nostr.parts
 wss://nostr.lnnodeinsight.com
 wss:///no.str.cr
+wss://nostr.sebastix.dev

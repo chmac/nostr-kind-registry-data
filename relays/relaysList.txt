@@ -286,3 +286,4 @@ wss://nostr.plebchain.org
 wss://relay.zeh.app
 wss://ch1.duno.com
 wss://rsslay.data.haus
+wss://spore.ws

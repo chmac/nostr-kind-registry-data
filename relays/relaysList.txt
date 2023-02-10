@@ -69,3 +69,4 @@ wss://nostr.utxo.lol
 wss://nostr.noones.com
 wss://nostr.rewardsbunny.com
 wss://nostr.ethtozero.fr
+wss://nostr.milou.lol

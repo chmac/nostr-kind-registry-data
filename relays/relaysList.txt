@@ -260,3 +260,4 @@ wss://nostr.bitcoinplebs.de
 wss://nostr.zhix.in
 wss://nostr.primz.org
 wss://nostr.arguflow.gg
+wss://nostr.goller.net

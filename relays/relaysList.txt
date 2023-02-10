@@ -4,3 +4,4 @@ wss://relay.nostr.bg
 wss://rsslay.nostr.net
 wss://nostr-pub.semisol.dev
 wss://relay.boring.surf
+wss://nostr-relay.lnmarkets.com

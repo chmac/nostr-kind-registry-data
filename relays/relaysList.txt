@@ -271,3 +271,4 @@ wss://nostr.sidnlabs.nl
 wss://nostr.688.org
 wss:///nostr.lnprivate.network
 wss://nostr-rs-relay.cryptoassetssubledger.com
+wss://puravida.nostr.land/invoices

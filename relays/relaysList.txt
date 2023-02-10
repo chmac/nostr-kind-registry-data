@@ -111,3 +111,4 @@ wss://nostr.mwmdev.com
 wss://nostr-relay.bitcoin.ninja
 wss://relay.realsearch.cc
 wss://relay.farscapian.com
+wss://relay.nostrid.com

@@ -127,3 +127,4 @@ wss://nostr.supremestack.xyz
 wss://relay.lexingtonbitcoin.org
 wss://foolay.nostr.moe
 wss://nostr.aozing.com
+wss://relay.nostr.moe

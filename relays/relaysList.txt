@@ -331,3 +331,4 @@ wss://jp-relay-nostr.invr.chat
 wss://nostr.exposed
 wss://nostr.nokotaro.com
 wss://nostr.dumpit.top
+wss://nostr.test.aesyc.io

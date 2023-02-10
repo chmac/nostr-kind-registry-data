@@ -41,3 +41,4 @@ wss://relay.nostr-latam.link
 wss://nostr.phenomenon.space
 wss://nostr-verified.wellorder.net
 wss://nos.lol
+wss://relay.current.fyi

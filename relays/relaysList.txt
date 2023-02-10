@@ -72,3 +72,4 @@ wss://nostr.ethtozero.fr
 wss://nostr.milou.lol
 wss://nostr-relay.digitalmob.ro
 wss://nostr.21m.fr
+wss://blg.nostr.sx

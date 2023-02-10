@@ -375,3 +375,4 @@ wss://relay-local.cowdle.gg
 wss://relay.arsip.my.id
 wss://nostream-test.up.railway.app
 wss://nostr-test.elastos.io
+wss://nostr.buythisdip.com

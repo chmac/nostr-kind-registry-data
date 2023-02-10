@@ -78,3 +78,4 @@ wss://no.str.watch
 wss://nostr-relay.schnitzel.world
 wss://relay.nostrmoto.xyz
 wss://nostr1.tunnelsats.com
+wss://relay.nostr.nu

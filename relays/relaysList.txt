@@ -31,3 +31,4 @@ wss://relay.nostr.info
 wss://sg.qemura.xyz
 wss://nostr.zebedee.cloud
 wss://relay.stoner.com
+wss://nostr.roundrockbitcoiners.com

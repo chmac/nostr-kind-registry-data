@@ -53,3 +53,4 @@ wss://nostr.zaprite.io
 wss://no.str.cr
 wss://nostr.bongbong.com
 wss://nostr.coinos.io
+wss://nostr.lnorb.com

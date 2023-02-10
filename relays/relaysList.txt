@@ -118,3 +118,4 @@ wss://nostr.bostonbtc.com
 wss://lv01.tater.ninja
 wss://nostr.bch.ninja
 wss://relay.sovereign-stack.org
+wss://paid.no.str.cr

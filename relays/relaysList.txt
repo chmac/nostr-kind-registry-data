@@ -13,3 +13,4 @@ wss://rsslay.nostr.moe
 wss://private-nostr.v0l.io
 wss://nostr.screaminglife.io
 wss://relay.minds.io/nostr/v1/ws
+wss://nostrex.fly.dev

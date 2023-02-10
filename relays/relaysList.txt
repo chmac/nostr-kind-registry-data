@@ -33,3 +33,4 @@ wss://nostr.zebedee.cloud
 wss://relay.stoner.com
 wss://nostr.roundrockbitcoiners.com
 wss://nostr.einundzwanzig.space
+wss://nostr.d11n.net

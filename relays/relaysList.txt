@@ -392,3 +392,4 @@ wss://penguinvillage.dynu.com
 wss://nostr.forecastdao.com
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://xiaoxinsi.xyz:4848
+wss://relay.21baiwan.com

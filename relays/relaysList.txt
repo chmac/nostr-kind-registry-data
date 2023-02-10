@@ -199,3 +199,4 @@ wss://relay.nvote.co:443
 wss://nostrnerds.sigmaenterprisesltd.com
 wss://nostr.thomascdnns.com
 wss://nostr.btcmp.com
+wss://relay-verified.deschooling.us

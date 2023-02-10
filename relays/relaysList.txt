@@ -385,3 +385,4 @@ wss://nostr.bitocial.xyz
 wss://nostr.milou.lol/invoices
 wss://nostr.zclub.app
 wss://nostr.l00p.org
+wss://relay-1.arsip.my.id

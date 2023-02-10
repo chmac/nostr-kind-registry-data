@@ -238,3 +238,4 @@ wss://nostr.liberty.fans
 wss://nostr.k3tan.com
 wss://nost.ratchat.nl
 wss://nostream.simon.snowinning.com
+wss://nostr.asdf.mx

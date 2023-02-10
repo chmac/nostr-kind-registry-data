@@ -224,3 +224,4 @@ wss://nostr.nemofin.com
 wss://relay1.gems.xyz
 wss://merrcurr.up.railway.app
 wss://nostream.nostrly.io
+wss://nostrpro.xyz

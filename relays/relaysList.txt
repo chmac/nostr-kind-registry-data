@@ -371,3 +371,4 @@ wss://nostr.vpn1.codingmerc.com
 wss://nostr.naut.social
 wss://nostr.howtobitcoin.shop
 wss://relay.johnnyasantos.com
+wss://relay-local.cowdle.gg

@@ -37,3 +37,4 @@ wss://nostr.d11n.net
 wss://nostr.cercatrova.me
 wss://nostr.swiss-enigma.ch
 wss://nostr.yael.at
+wss://relay.nostr-latam.link

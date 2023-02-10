@@ -262,3 +262,4 @@ wss://nostr.primz.org
 wss://nostr.arguflow.gg
 wss://nostr.goller.net
 wss://nostr.truckenbucks.com
+wss://nostr.rajabi.ca

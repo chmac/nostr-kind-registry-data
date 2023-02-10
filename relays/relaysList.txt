@@ -76,3 +76,4 @@ wss://blg.nostr.sx
 wss://mule.platanito.org
 wss://no.str.watch
 wss://nostr-relay.schnitzel.world
+wss://relay.nostrmoto.xyz

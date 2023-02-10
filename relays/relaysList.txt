@@ -382,3 +382,4 @@ wss://nostr.web3infra.xyz
 wss://nostr.freefrom.fi
 wss://nostr.tangzixiang.com
 wss://nostr.bitocial.xyz
+wss://nostr.milou.lol/invoices

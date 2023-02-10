@@ -217,3 +217,4 @@ wss://n.wingu.se
 wss://eosla.com
 wss://nostream-production-f83d.up.railway.app
 wss://bhagos.org
+wss://nostr.fediverse.jp

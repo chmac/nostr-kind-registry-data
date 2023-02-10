@@ -388,3 +388,4 @@ wss://nostr.l00p.org
 wss://relay-1.arsip.my.id
 wss://relay.usenostr.org
 wss://nostrafrica.pcdkd.fyi
+wss://penguinvillage.dynu.com

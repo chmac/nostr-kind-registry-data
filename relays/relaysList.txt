@@ -364,3 +364,4 @@ wss://relay.damus.io/
 relay.snort.social
 wss://relay.beta.fogtype.com
 wss://nostr.thibautrey.fr
+wss://nostr.tools.global.id

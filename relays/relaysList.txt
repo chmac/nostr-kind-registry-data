@@ -130,3 +130,4 @@ wss://nostr.aozing.com
 wss://relay.nostr.moe
 wss://nostr.corebreach.com
 wss://nostr-1.nbo.angani.co
+wss://nostr.mikedilger.com

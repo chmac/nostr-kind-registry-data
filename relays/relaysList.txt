@@ -112,3 +112,4 @@ wss://nostr-relay.bitcoin.ninja
 wss://relay.realsearch.cc
 wss://relay.farscapian.com
 wss://relay.nostrid.com
+wss://nostr3.actn.io

@@ -20,3 +20,4 @@ wss://relay.honk.pw
 wss://relay.roli.social
 wss://relay.snort.social
 wss://nostr.fmt.wiz.biz
+wss://nostr.oxtr.dev

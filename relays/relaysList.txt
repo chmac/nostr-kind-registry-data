@@ -405,3 +405,4 @@ wss://nostr.1729.cloud
 wss://nostr-mv.ashiroid.com
 wss://relay.reeve.cn
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
+wss://nostr.geekgalaxy.com

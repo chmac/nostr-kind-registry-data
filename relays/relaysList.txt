@@ -248,3 +248,4 @@ wss://nostr.ltbl.io
 wss://nostr.reamde.dev
 wss://nostr.globals.fans
 wss://nostr.wine
+wss://nostr.koning-degraaf.nl

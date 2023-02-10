@@ -51,3 +51,4 @@ wss://nostr.developer.li
 wss://nostr-relay.alekberg.net
 wss://nostr.zaprite.io
 wss://no.str.cr
+wss://nostr.bongbong.com

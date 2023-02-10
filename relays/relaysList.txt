@@ -152,3 +152,4 @@ wss://relay.grorp.com
 wss://nostr2.actn.io
 wss://relay.plebstr.com
 wss://nostr.uselessshit.co
+wss://relay.nostropolis.xyz/websocket

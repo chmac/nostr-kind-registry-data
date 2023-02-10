@@ -202,3 +202,4 @@ wss://nostr.btcmp.com
 wss://relay-verified.deschooling.us
 wss://lnbits.link/nostrrelay/client
 wss://nostr.cizmar.net
+wss://relay.alxgsv.com

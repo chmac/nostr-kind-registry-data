@@ -222,3 +222,4 @@ wss://tonyo.up.railway.app
 wss://nostr.data.haus
 wss://nostr.nemofin.com
 wss://relay1.gems.xyz
+wss://merrcurr.up.railway.app

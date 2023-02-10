@@ -373,3 +373,4 @@ wss://nostr.howtobitcoin.shop
 wss://relay.johnnyasantos.com
 wss://relay-local.cowdle.gg
 wss://relay.arsip.my.id
+wss://nostream-test.up.railway.app

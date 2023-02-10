@@ -279,3 +279,4 @@ wss://nostr.hosted.eu.org
 wss://nostr21.com
 wss://arc1.arcadelabs.co
 wss://nostr.nym.life
+wss://relay.koreus.social

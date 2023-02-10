@@ -220,3 +220,4 @@ wss://bhagos.org
 wss://nostr.fediverse.jp
 wss://tonyo.up.railway.app
 wss://nostr.data.haus
+wss://nostr.nemofin.com

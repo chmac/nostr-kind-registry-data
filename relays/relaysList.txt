@@ -205,3 +205,4 @@ wss://nostr.cizmar.net
 wss://relay.alxgsv.com
 wss://relay.nostr.africa
 wss://ragnar-relay.com
+wss://nostr.member.cash

@@ -156,3 +156,4 @@ wss://relay.nostropolis.xyz/websocket
 wss://nostr.adpo.co
 wss://relay.bleskop.com
 wss://relay.sdbtc.org
+wss://relay.wellorder.net

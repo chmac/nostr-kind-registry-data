@@ -209,3 +209,4 @@ wss://nostr.member.cash
 wss://nostr.zkid.social
 wss://nostr.bitcoin-21.org
 wss://nostr.snblago.com
+wss://pow.nostrati.com

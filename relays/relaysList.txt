@@ -231,3 +231,4 @@ wss://relay.austrich.net
 wss://nostr.bingtech.tk
 wss://puravida.nostr.land
 wss://nostr.0ne.day
+wss://relay.valera.co

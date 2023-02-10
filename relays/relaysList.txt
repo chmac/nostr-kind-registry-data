@@ -359,3 +359,4 @@ wss://nostr-relay.aapi.me
 wss://alo.ottonove891.cf
 wss://nostr.weking.tk
 wss://nostr-relay.nokotaro.com
+wss://nostr.minimue81.selfhost.co

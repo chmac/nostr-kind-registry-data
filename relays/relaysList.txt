@@ -123,3 +123,4 @@ wss://nostr-verif.slothy.win
 wss://nostr.lorentz.is
 wss://deschooling.us
 wss://nostrrelay.com
+wss://nostr.supremestack.xyz

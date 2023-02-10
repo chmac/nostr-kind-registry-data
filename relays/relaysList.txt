@@ -348,3 +348,4 @@ wss://nostr-pub.liujiale.me
 wss://atlas.nostr.land/invoices
 wss://frighteningdeafeningagent.nailuogg.repl.co
 wss://nostr.services.thefockinfury.wtf
+wss://nostr.1086.io

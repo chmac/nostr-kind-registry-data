@@ -243,3 +243,4 @@ wss://nostr.13x.sh
 wss://nostr-dev.newstr.io
 wss://nostr.cro.social
 wss://nostr.anchel.nl
+wss://nostr01.opencult.com

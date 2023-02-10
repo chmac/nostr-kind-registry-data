@@ -38,3 +38,4 @@ wss://nostr.cercatrova.me
 wss://nostr.swiss-enigma.ch
 wss://nostr.yael.at
 wss://relay.nostr-latam.link
+wss://nostr.phenomenon.space

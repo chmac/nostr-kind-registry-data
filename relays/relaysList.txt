@@ -251,3 +251,4 @@ wss://nostr.wine
 wss://nostr.koning-degraaf.nl
 wss://nostr.pleb.network
 wss://nostr.cheeserobot.org
+wss://nostr.thank.eu

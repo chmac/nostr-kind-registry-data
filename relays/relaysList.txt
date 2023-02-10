@@ -317,3 +317,4 @@ wss://relay.taldra.in
 wss://relay.nostriches.org
 wss://nostr.h3y6e.com
 wss://nostr.decentony.com
+wss://nostr.nikolaj.online

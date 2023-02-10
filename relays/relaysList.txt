@@ -144,3 +144,4 @@ wss://nostr.8e23.net
 wss://relay.nostr.snblago.com
 wss://nostr.rdfriedl.com
 wss://relay.nor.st
+wss://nostr.shmueli.org

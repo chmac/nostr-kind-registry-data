@@ -356,3 +356,4 @@ wss://nostr.bybieyang.com
 wss://nostream.frank.snowinning.com
 wss://nostr.fennel.org:7000
 wss://nostr-relay.aapi.me
+wss://alo.ottonove891.cf

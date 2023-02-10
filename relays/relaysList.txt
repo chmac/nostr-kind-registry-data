@@ -104,3 +104,4 @@ wss://nostr.klabo.blog
 wss://relay.nostr.ro
 wss://relay.nostrich.de
 wss://nostr.mustardnodes.com
+wss://nostr-bg01.ciph.rs

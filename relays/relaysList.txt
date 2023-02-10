@@ -122,3 +122,4 @@ wss://paid.no.str.cr
 wss://nostr-verif.slothy.win
 wss://nostr.lorentz.is
 wss://deschooling.us
+wss://nostrrelay.com

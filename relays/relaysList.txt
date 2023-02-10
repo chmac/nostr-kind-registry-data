@@ -84,3 +84,4 @@ wss://nostr.w3ird.tech
 wss://nostr.shawnyeager.net
 wss://relay.kronkltd.net
 wss://relay.t5y.ca
+wss://tmp-relay.cesc.trade

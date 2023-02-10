@@ -395,3 +395,4 @@ wss://xiaoxinsi.xyz:4848
 wss://relay.21baiwan.com
 wss://relay.nostr.blockhenge.com
 wss://relay.orange-crush.com
+wss://nostr.jacany.com

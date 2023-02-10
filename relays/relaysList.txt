@@ -266,3 +266,4 @@ wss://nostr.rajabi.ca
 wss://zee-relay.fly.dev
 wss://mastodon.cloud/api/v1/streaming
 wss://nostr.blockpower.capital
+wss://eospark.com

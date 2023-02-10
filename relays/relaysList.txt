@@ -419,3 +419,4 @@ wss://nostr-sg.com
 wss://nostr.roytus.ai
 wss:///relay.nostriches.org
 wss://nostr.doufu-tech.com
+wss://nostr.easify.de

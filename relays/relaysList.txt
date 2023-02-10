@@ -119,3 +119,4 @@ wss://lv01.tater.ninja
 wss://nostr.bch.ninja
 wss://relay.sovereign-stack.org
 wss://paid.no.str.cr
+wss://nostr-verif.slothy.win

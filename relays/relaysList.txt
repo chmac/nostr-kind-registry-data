@@ -22,3 +22,4 @@ wss://relay.snort.social
 wss://nostr.fmt.wiz.biz
 wss://nostr.oxtr.dev
 wss://eden.nostr.land
+wss://nostr.mom

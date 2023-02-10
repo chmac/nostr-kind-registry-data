@@ -306,3 +306,4 @@ wss://nostr.raitisoja.net
 wss://nostr1.saftup.xyz
 wss://relay.nostrview.com
 wss://nostr01.vida.dev
+wss://nostr.ownscale.org

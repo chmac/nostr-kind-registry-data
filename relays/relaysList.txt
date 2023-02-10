@@ -327,3 +327,4 @@ wss:///nostr.roundrockbitcoiners.com
 wss://www.131.me
 wss://nostream.unift.xyz
 wss://relay.focusofthard.win
+wss://jp-relay-nostr.invr.chat

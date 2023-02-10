@@ -335,3 +335,4 @@ wss://nostr.test.aesyc.io
 wss://relay.leesalminen.com
 wss://nostr.malin.onl
 wss://relay.humanumest.social
+wss://relay.nostr.amane.moe

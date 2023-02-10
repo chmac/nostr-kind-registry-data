@@ -246,3 +246,4 @@ wss://nostr.anchel.nl
 wss://nostr01.opencult.com
 wss://nostr.ltbl.io
 wss://nostr.reamde.dev
+wss://nostr.globals.fans

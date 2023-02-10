@@ -261,3 +261,4 @@ wss://nostr.zhix.in
 wss://nostr.primz.org
 wss://nostr.arguflow.gg
 wss://nostr.goller.net
+wss://nostr.truckenbucks.com

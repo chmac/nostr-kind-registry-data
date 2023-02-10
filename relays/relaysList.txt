@@ -105,3 +105,4 @@ wss://relay.nostr.ro
 wss://relay.nostrich.de
 wss://nostr.mustardnodes.com
 wss://nostr-bg01.ciph.rs
+wss://nostr.vulpem.com

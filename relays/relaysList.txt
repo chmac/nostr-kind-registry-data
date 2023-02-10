@@ -134,3 +134,4 @@ wss://nostr.mikedilger.com
 wss://nostr.zoomout.chat
 wss://nostr.jiashanlu.synology.me
 wss://nostr.coollamer.com
+wss://nostr.digitalreformation.info

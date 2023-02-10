@@ -341,3 +341,4 @@ wss://nostr.satoshi.fun
 wss://nostr.21crypto.ch
 wss://nostr.mjex.me
 wss://nostr.fractalized.ovh
+wss://slick.mjex.me

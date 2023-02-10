@@ -315,3 +315,4 @@ wss://nostr.gives.africa
 wss://relay.nostrology.org
 wss://relay.taldra.in
 wss://relay.nostriches.org
+wss://nostr.h3y6e.com

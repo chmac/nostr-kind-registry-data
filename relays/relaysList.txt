@@ -303,3 +303,4 @@ wss://nostr.nakamotosatoshi.cf
 wss://relay.1bps.io
 wss://relay.nostrich.land
 wss://nostr.raitisoja.net
+wss://nostr1.saftup.xyz

@@ -140,3 +140,4 @@ wss://nostr-relay.usebitcoin.space
 wss://relay.nostr.express
 wss://nostr.mnethome.de
 wss://nostr.blocs.fr
+wss://nostr.8e23.net

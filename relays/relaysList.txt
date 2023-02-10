@@ -110,3 +110,4 @@ wss://relay.ryzizub.com
 wss://nostr.mwmdev.com
 wss://nostr-relay.bitcoin.ninja
 wss://relay.realsearch.cc
+wss://relay.farscapian.com

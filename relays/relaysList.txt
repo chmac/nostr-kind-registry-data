@@ -273,3 +273,4 @@ wss:///nostr.lnprivate.network
 wss://nostr-rs-relay.cryptoassetssubledger.com
 wss://puravida.nostr.land/invoices
 wss://nostr.inosta.cc
+wss://nostr.bitcoinpuertori.co

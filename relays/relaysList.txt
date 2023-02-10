@@ -54,3 +54,4 @@ wss://no.str.cr
 wss://nostr.bongbong.com
 wss://nostr.coinos.io
 wss://nostr.lnorb.com
+wss://relay.sendstr.com

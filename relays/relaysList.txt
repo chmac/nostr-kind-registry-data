@@ -210,3 +210,4 @@ wss://nostr.zkid.social
 wss://nostr.bitcoin-21.org
 wss://nostr.snblago.com
 wss://pow.nostrati.com
+wss://nostream-production-9458.up.railway.app

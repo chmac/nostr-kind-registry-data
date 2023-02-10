@@ -274,3 +274,4 @@ wss://nostr-rs-relay.cryptoassetssubledger.com
 wss://puravida.nostr.land/invoices
 wss://nostr.inosta.cc
 wss://nostr.bitcoinpuertori.co
+wss://eden.nostr.land/invoices

@@ -154,3 +154,4 @@ wss://relay.plebstr.com
 wss://nostr.uselessshit.co
 wss://relay.nostropolis.xyz/websocket
 wss://nostr.adpo.co
+wss://relay.bleskop.com

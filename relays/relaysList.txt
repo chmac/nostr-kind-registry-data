@@ -137,3 +137,4 @@ wss://nostr.coollamer.com
 wss://nostr.digitalreformation.info
 wss://nostr.thesimplekid.com
 wss://nostr-relay.usebitcoin.space
+wss://relay.nostr.express

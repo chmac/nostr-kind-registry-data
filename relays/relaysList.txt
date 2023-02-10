@@ -206,3 +206,4 @@ wss://relay.alxgsv.com
 wss://relay.nostr.africa
 wss://ragnar-relay.com
 wss://nostr.member.cash
+wss://nostr.zkid.social

@@ -346,3 +346,4 @@ wss://nostr.21l.st
 wss://relay.nostr.gt
 wss://nostr-pub.liujiale.me
 wss://atlas.nostr.land/invoices
+wss://frighteningdeafeningagent.nailuogg.repl.co

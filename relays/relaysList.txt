@@ -16,3 +16,4 @@ wss://relay.minds.io/nostr/v1/ws
 wss://nostrex.fly.dev
 wss://nostr.coinsamba.com.br
 wss://relay.ypcloud.com
+wss://relay.honk.pw

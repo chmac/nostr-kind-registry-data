@@ -107,3 +107,4 @@ wss://nostr.mustardnodes.com
 wss://nostr-bg01.ciph.rs
 wss://nostr.vulpem.com
 wss://relay.ryzizub.com
+wss://nostr.mwmdev.com

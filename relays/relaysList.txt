@@ -95,3 +95,4 @@ wss://nostr-dev.wellorder.net
 wss://nostr.nodeofsven.com
 wss://relay.n057r.club
 wss://nostrical.com
+wss://nostr.lnprivate.network

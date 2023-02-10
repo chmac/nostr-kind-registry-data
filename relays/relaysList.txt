@@ -324,3 +324,4 @@ wss://fast.bhagos.org
 wss://relay.nostr.wirednet.jp
 wss://nostrsxz4lbwe-nostr.functions.fnc.fr-par.scw.cloud
 wss:///nostr.roundrockbitcoiners.com
+wss://www.131.me

@@ -416,3 +416,4 @@ wss://relay.nostr.or.jp
 wss://nostr.astrox.app
 wss://relay.nostrified.org
 wss://nostr-sg.com
+wss://nostr.roytus.ai

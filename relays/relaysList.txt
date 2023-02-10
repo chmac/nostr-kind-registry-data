@@ -310,3 +310,4 @@ wss://nostr.ownscale.org
 wss://relay.nostromo.social
 wss://1.noztr.com
 wss://nostr.pcube.io
+wss://relay.thes.ai

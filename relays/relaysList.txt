@@ -320,3 +320,4 @@ wss://nostr.decentony.com
 wss://nostr.nikolaj.online
 wss://nostr.frostr.xyz
 wss://nostr-relay.pcdkd.fyi
+wss://fast.bhagos.org

@@ -381,3 +381,4 @@ wss://rsr.uyky.net:30443
 wss://nostr.web3infra.xyz
 wss://nostr.freefrom.fi
 wss://nostr.tangzixiang.com
+wss://nostr.bitocial.xyz

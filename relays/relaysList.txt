@@ -124,3 +124,4 @@ wss://nostr.lorentz.is
 wss://deschooling.us
 wss://nostrrelay.com
 wss://nostr.supremestack.xyz
+wss://relay.lexingtonbitcoin.org

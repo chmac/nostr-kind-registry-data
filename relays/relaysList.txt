@@ -18,3 +18,4 @@ wss://nostr.coinsamba.com.br
 wss://relay.ypcloud.com
 wss://relay.honk.pw
 wss://relay.roli.social
+wss://relay.snort.social

@@ -8,3 +8,4 @@ wss://nostr-relay.lnmarkets.com
 wss://relay.nostrgraph.net
 wss://nostr.lu.ke
 wss://nostr.orba.ca
+wss://nostr-01.bolt.observer

@@ -421,3 +421,4 @@ wss:///relay.nostriches.org
 wss://nostr.doufu-tech.com
 wss://nostr.easify.de
 wss://nostr1676031941328.app.runonflux.io
+wss://bitcoinmaximalists.online

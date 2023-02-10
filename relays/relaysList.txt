@@ -34,3 +34,4 @@ wss://relay.stoner.com
 wss://nostr.roundrockbitcoiners.com
 wss://nostr.einundzwanzig.space
 wss://nostr.d11n.net
+wss://nostr.cercatrova.me

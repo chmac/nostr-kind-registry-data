@@ -93,3 +93,4 @@ wss://knostr.neutrine.com
 wss://nostr.actn.io
 wss://nostr-dev.wellorder.net
 wss://nostr.nodeofsven.com
+wss://relay.n057r.club

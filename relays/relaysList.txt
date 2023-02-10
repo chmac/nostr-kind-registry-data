@@ -102,3 +102,4 @@ wss://nostr.gromeul.eu
 wss://node01.nostress.cc
 wss://nostr.klabo.blog
 wss://relay.nostr.ro
+wss://relay.nostrich.de

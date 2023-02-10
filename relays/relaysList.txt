@@ -44,3 +44,5 @@ wss://nos.lol
 wss://relay.current.fyi
 wss://student.chadpolytechnic.com
 wss://nostr-relay.derekross.me
+wss://relay.oldcity-bitcoiners.info
+wss://nostr.drss.io

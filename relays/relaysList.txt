@@ -255,3 +255,4 @@ wss://nostr.thank.eu
 wss://relay.hamnet.io
 wss://nostr.shroomslab.net
 wss://nostream-production-4742.up.railway.app
+wss://relay.zhix.in

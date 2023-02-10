@@ -288,3 +288,4 @@ wss://ch1.duno.com
 wss://rsslay.data.haus
 wss://spore.ws
 wss://relay.727whisky.com
+wss://private.red.gb.net

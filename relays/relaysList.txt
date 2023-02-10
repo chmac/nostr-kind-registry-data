@@ -227,3 +227,4 @@ wss://nostream.nostrly.io
 wss://nostrpro.xyz
 wss://relay.nostr.hach.re
 wss://nostr.worldkey.io
+wss://relay.austrich.net

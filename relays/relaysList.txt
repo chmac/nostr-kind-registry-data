@@ -172,3 +172,4 @@ wss://nostr.coincreek.com
 wss://nostr-pub1.southflorida.ninja
 wss://relay.f7z.io
 wss://relay.orangepill.dev
+wss://relay.nostr.jhot.me

@@ -336,3 +336,4 @@ wss://relay.leesalminen.com
 wss://nostr.malin.onl
 wss://relay.humanumest.social
 wss://relay.nostr.amane.moe
+wss://nostr.bgpipes.com

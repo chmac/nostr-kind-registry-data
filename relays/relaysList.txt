@@ -343,3 +343,4 @@ wss://nostr.mjex.me
 wss://nostr.fractalized.ovh
 wss://slick.mjex.me
 wss://nostr.21l.st
+wss://relay.nostr.gt

@@ -311,3 +311,4 @@ wss://relay.nostromo.social
 wss://1.noztr.com
 wss://nostr.pcube.io
 wss://relay.thes.ai
+wss://nostr.gives.africa
